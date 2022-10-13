@@ -2,6 +2,8 @@
 
 # demo-spring-react-example-v2: dsre-v2
 
+Repo: https://github.com/ucsb-cs156-f22/jpa03-ilai-ucsb
+
 Storybook is here:
 * Production: <https://ucsb-cs156-f22.github.io/jpa03-ilai-ucsb-docs/>
 * QA:  <https://ucsb-cs156-f22.github.io/jpa03-ilai-ucsb-docs-qa/>
